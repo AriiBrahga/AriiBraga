@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AriiBrahga
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Flutter And C++
-- 💞️ I’m looking to collaborate on
+- 🌱 I’m currently learning Python And PL\SQL
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ariel.braga09@gmail.com
 
 <!---
